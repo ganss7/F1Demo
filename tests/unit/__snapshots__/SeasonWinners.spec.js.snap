@@ -1,0 +1,429 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SeasonWinners.vue renders correctrly 1`] = `
+<div
+  class="season-winners-list"
+>
+  <mdcontent-stub
+    class="heading"
+    mdtag="div"
+  >
+    <h1>
+      Season 2005 race winners:
+    </h1>
+  </mdcontent-stub>
+   
+  <!---->
+   
+  <mdlist-stub>
+    <span
+      tag="div"
+    >
+      <mdlistitem-stub
+        class=""
+        data-index="0"
+        dataindex="0"
+      >
+        
+        1. 
+        <strong>
+          Australian Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Giancarlo_Fisichella"
+          target="_blank"
+        >
+          G. Fisichella
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class="highlight"
+        data-index="1"
+        dataindex="1"
+      >
+        
+        2. 
+        <strong>
+          Malaysian Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Fernando_Alonso"
+          target="_blank"
+        >
+          F. Alonso
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class="highlight"
+        data-index="2"
+        dataindex="2"
+      >
+        
+        3. 
+        <strong>
+          Bahrain Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Fernando_Alonso"
+          target="_blank"
+        >
+          F. Alonso
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class="highlight"
+        data-index="3"
+        dataindex="3"
+      >
+        
+        4. 
+        <strong>
+          San Marino Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Fernando_Alonso"
+          target="_blank"
+        >
+          F. Alonso
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="4"
+        dataindex="4"
+      >
+        
+        5. 
+        <strong>
+          Spanish Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
+          target="_blank"
+        >
+          K. Räikkönen
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="5"
+        dataindex="5"
+      >
+        
+        6. 
+        <strong>
+          Monaco Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
+          target="_blank"
+        >
+          K. Räikkönen
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class="highlight"
+        data-index="6"
+        dataindex="6"
+      >
+        
+        7. 
+        <strong>
+          European Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Fernando_Alonso"
+          target="_blank"
+        >
+          F. Alonso
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="7"
+        dataindex="7"
+      >
+        
+        8. 
+        <strong>
+          Canadian Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
+          target="_blank"
+        >
+          K. Räikkönen
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="8"
+        dataindex="8"
+      >
+        
+        9. 
+        <strong>
+          United States Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Michael_Schumacher"
+          target="_blank"
+        >
+          M. Schumacher
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class="highlight"
+        data-index="9"
+        dataindex="9"
+      >
+        
+        10. 
+        <strong>
+          French Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Fernando_Alonso"
+          target="_blank"
+        >
+          F. Alonso
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="10"
+        dataindex="10"
+      >
+        
+        11. 
+        <strong>
+          British Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Juan_Pablo_Montoya"
+          target="_blank"
+        >
+          J. Pablo Montoya
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class="highlight"
+        data-index="11"
+        dataindex="11"
+      >
+        
+        12. 
+        <strong>
+          German Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Fernando_Alonso"
+          target="_blank"
+        >
+          F. Alonso
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="12"
+        dataindex="12"
+      >
+        
+        13. 
+        <strong>
+          Hungarian Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
+          target="_blank"
+        >
+          K. Räikkönen
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="13"
+        dataindex="13"
+      >
+        
+        14. 
+        <strong>
+          Turkish Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
+          target="_blank"
+        >
+          K. Räikkönen
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="14"
+        dataindex="14"
+      >
+        
+        15. 
+        <strong>
+          Italian Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Juan_Pablo_Montoya"
+          target="_blank"
+        >
+          J. Pablo Montoya
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="15"
+        dataindex="15"
+      >
+        
+        16. 
+        <strong>
+          Belgian Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
+          target="_blank"
+        >
+          K. Räikkönen
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="16"
+        dataindex="16"
+      >
+        
+        17. 
+        <strong>
+          Brazilian Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Juan_Pablo_Montoya"
+          target="_blank"
+        >
+          J. Pablo Montoya
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class=""
+        data-index="17"
+        dataindex="17"
+      >
+        
+        18. 
+        <strong>
+          Japanese Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
+          target="_blank"
+        >
+          K. Räikkönen
+        </a>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        class="highlight"
+        data-index="18"
+        dataindex="18"
+      >
+        
+        19. 
+        <strong>
+          Chinese Grand Prix
+        </strong>
+        
+         - 
+        
+        <a
+          href="http://en.wikipedia.org/wiki/Fernando_Alonso"
+          target="_blank"
+        >
+          F. Alonso
+        </a>
+      </mdlistitem-stub>
+    </span>
+  </mdlist-stub>
+   
+  <mddialog-stub
+    mdbackdrop="true"
+    mdbackdropclass="md-dialog-overlay"
+    mdclickoutsidetoclose="true"
+    mdcloseonesc="true"
+    mdfullscreen="true"
+  >
+    <mddialogtitle-stub>
+      Error
+    </mddialogtitle-stub>
+     
+    <mddialogcontent-stub>
+      
+    </mddialogcontent-stub>
+     
+    <mddialogactions-stub>
+      <mdbutton-stub
+        type="button"
+      >
+        Ok
+      </mdbutton-stub>
+    </mddialogactions-stub>
+  </mddialog-stub>
+</div>
+`;

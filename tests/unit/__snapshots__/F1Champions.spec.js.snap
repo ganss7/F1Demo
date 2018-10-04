@@ -1,0 +1,236 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`F1Champions.vue renders correctrly 1`] = `
+<div
+  class="champions-list"
+>
+  <mdcontent-stub
+    class="heading"
+    mdtag="div"
+  >
+    <h1>
+      F1 Champions from 2005 to 2015:
+    </h1>
+  </mdcontent-stub>
+   
+  <!---->
+   
+  <mdlist-stub>
+    <span
+      tag="div"
+    >
+      <mdlistitem-stub
+        data-index="0"
+        dataindex="0"
+        to="[object Object]"
+      >
+        
+        1. 
+        <strong>
+          2005
+        </strong>
+         
+        - 
+        
+        <strong>
+          Fernando Alonso
+        </strong>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        data-index="1"
+        dataindex="1"
+        to="[object Object]"
+      >
+        
+        2. 
+        <strong>
+          2006
+        </strong>
+         
+        - 
+        
+        <strong>
+          Fernando Alonso
+        </strong>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        data-index="2"
+        dataindex="2"
+        to="[object Object]"
+      >
+        
+        3. 
+        <strong>
+          2007
+        </strong>
+         
+        - 
+        
+        <strong>
+          Kimi Räikkönen
+        </strong>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        data-index="3"
+        dataindex="3"
+        to="[object Object]"
+      >
+        
+        4. 
+        <strong>
+          2008
+        </strong>
+         
+        - 
+        
+        <strong>
+          Lewis Hamilton
+        </strong>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        data-index="4"
+        dataindex="4"
+        to="[object Object]"
+      >
+        
+        5. 
+        <strong>
+          2009
+        </strong>
+         
+        - 
+        
+        <strong>
+          Jenson Button
+        </strong>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        data-index="5"
+        dataindex="5"
+        to="[object Object]"
+      >
+        
+        6. 
+        <strong>
+          2010
+        </strong>
+         
+        - 
+        
+        <strong>
+          Sebastian Vettel
+        </strong>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        data-index="6"
+        dataindex="6"
+        to="[object Object]"
+      >
+        
+        7. 
+        <strong>
+          2011
+        </strong>
+         
+        - 
+        
+        <strong>
+          Sebastian Vettel
+        </strong>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        data-index="7"
+        dataindex="7"
+        to="[object Object]"
+      >
+        
+        8. 
+        <strong>
+          2012
+        </strong>
+         
+        - 
+        
+        <strong>
+          Sebastian Vettel
+        </strong>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        data-index="8"
+        dataindex="8"
+        to="[object Object]"
+      >
+        
+        9. 
+        <strong>
+          2013
+        </strong>
+         
+        - 
+        
+        <strong>
+          Sebastian Vettel
+        </strong>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        data-index="9"
+        dataindex="9"
+        to="[object Object]"
+      >
+        
+        10. 
+        <strong>
+          2014
+        </strong>
+         
+        - 
+        
+        <strong>
+          Lewis Hamilton
+        </strong>
+      </mdlistitem-stub>
+      <mdlistitem-stub
+        data-index="10"
+        dataindex="10"
+        to="[object Object]"
+      >
+        
+        11. 
+        <strong>
+          2015
+        </strong>
+         
+        - 
+        
+        <strong>
+          Lewis Hamilton
+        </strong>
+      </mdlistitem-stub>
+    </span>
+  </mdlist-stub>
+   
+  <mddialog-stub
+    mdbackdrop="true"
+    mdbackdropclass="md-dialog-overlay"
+    mdclickoutsidetoclose="true"
+    mdcloseonesc="true"
+    mdfullscreen="true"
+  >
+    <mddialogtitle-stub>
+      Error
+    </mddialogtitle-stub>
+     
+    <mddialogcontent-stub>
+      
+    </mddialogcontent-stub>
+     
+    <mddialogactions-stub>
+      <mdbutton-stub
+        type="button"
+      >
+        Ok
+      </mdbutton-stub>
+    </mddialogactions-stub>
+  </mddialog-stub>
+</div>
+`;

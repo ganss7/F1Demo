@@ -1,0 +1,24 @@
+@import "~vue-material/dist/theme/engine"; // Import the theme engine
+
+@include md-register-theme("default", 
+    (
+        primary: #e10600, // The primary color of your brand
+        accent: #f4f4f4 // The secondary color of your brand
+    )
+);
+
+@import "~vue-material/dist/theme/all"; // Apply the theme
+
+@font-face {
+    font-family: 'F1';
+    src:
+         url('../assets/fonts/Formula1-Regular.otf') format('woff2'), /* Super Modern Browsers */
+         url('../assets/fonts/Formula1-Regular.otf') format('woff'), /* Pretty Modern Browsers */
+}
+
+@font-face {
+    font-family: 'F1 Bold';
+    src:
+         url('../assets/fonts/Formula1-Bold.otf') format('woff2'), /* Super Modern Browsers */
+         url('../assets/fonts/Formula1-Bold.otf') format('woff'), /* Pretty Modern Browsers */
+}
