@@ -75,7 +75,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  .md-list-item.highlight {
+  #app .md-list-item.highlight {
     background: var(--md-theme-default-accent);
   }
 </style>
